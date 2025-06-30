@@ -1,7 +1,0 @@
-# this is soley for deployment purposes for local run refer to readme.md
---find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-torch
-streamlit
-numpy
-Pillow
-transformers
