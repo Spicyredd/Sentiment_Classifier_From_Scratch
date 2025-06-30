@@ -171,4 +171,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - The movie review dataset is provided by **Vipul Gandhi** on [Kaggle](https://www.kaggle.com/datasets/vipulgandhi/movie-review-dataset).
 - This project was inspired by the foundational concepts of the Transformer architecture from the paper ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762).
 - The `transformers` library by [Hugging Face](https://huggingface.co/) was used for the BERT model and tokenizer.
-```
