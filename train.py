@@ -91,3 +91,4 @@ if __name__ == "__main__":
           optimizer=optimizer,
           epochs=15,
           device=device)
+    torch.save(model.state_dict(), 'model_state_dict.pt')
