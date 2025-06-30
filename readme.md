@@ -12,7 +12,7 @@ This project implements a custom Transformer Encoder model built with PyTorch to
 
 This repository includes a Streamlit application for real-time sentiment analysis. You can enter any movie review to see the model's prediction and confidence score.
 
-Visit: [Demo Website](sentimentanalysisformoviewreview.streamlit.app)
+Visit: [Demo Website](https://sentimentanalysisformoviewreview.streamlit.app)
 
 ---
 
