@@ -56,7 +56,7 @@ The sentiment analysis pipeline follows these steps:
 ---
 
 ## 📂 Project Structure
-
+*Find `environment.yml` file in local branch*
 ```
 .
 ├── CustomDataset.py            # PyTorch Dataset class for loading data
