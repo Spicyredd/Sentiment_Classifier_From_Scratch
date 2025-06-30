@@ -1,0 +1,6 @@
+# this is soley for deployment purposes for local run refer to readme.md
+streamlit
+numpy
+Pillow
+torch
+transformers
