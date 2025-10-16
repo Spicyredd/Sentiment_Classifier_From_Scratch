@@ -3,12 +3,7 @@ from torch.utils.data import Dataset, DataLoader
 from pathlib import Path
 from transformers import BertTokenizer
 
-# Load tokenizer and model
-tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-
 # Create a PyTorch Dataset
-
-
 class TextDataset(Dataset):
     """
     A custom PyTorch Dataset for loading and tokenizing text files for sentiment classification.
