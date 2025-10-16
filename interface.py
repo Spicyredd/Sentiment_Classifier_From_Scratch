@@ -4,7 +4,7 @@ import torch
 import numpy as np
 from PIL import Image
 
-# Make sure you have these helper files
+# Importing other required libraries
 from CustomModel import TransformerEncoder
 from utils import get_text_tensor, get_label
 
